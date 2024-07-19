@@ -1,4 +1,4 @@
-## 🚀 My Experience with VPCs 🚀
+## 🚀 My Experience with VPCs 
 
 Virtual Private Cloud (VPC) is a critical component in AWS that allows you to launch AWS resources into a virtual network you've defined. It offers complete control over your network configuration, including IP address ranges, subnets, route tables, and network gateways.
 
